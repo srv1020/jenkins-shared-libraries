@@ -1,5 +1,5 @@
-jenkins's groovy libraries 
-to pull from github
-to build dockerimage
-to push to docker hub
-to run docker image
+jenkins's groovy libraries <br>
+to pull from github <br>
+to build dockerimage <br>
+to push to docker hub <br>
+to run docker image <br>
